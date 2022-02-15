@@ -8,7 +8,7 @@ body {
   font-family: Montserrat;
   font-weight: 700;
   font-size: 20px;
-  background: url(images/bg.webp) no-repeat center center fixed;
+  background: url(images/bg.svg) no-repeat center center fixed;
   background-size: cover;
 }
 .heading {
